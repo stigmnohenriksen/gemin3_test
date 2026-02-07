@@ -1,6 +1,6 @@
-topic = "kunstig intelligens"
+topic "Kunne lære seg python"
 
-style = "en femåring"
+style = "Min sønn forstår hvor viktig dette er"
 
 
 
